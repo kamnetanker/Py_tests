@@ -64,4 +64,4 @@ class nloader:
 
 # class that load configuration file and load binary files with weights
 class nbuilder:
-
+    pass
